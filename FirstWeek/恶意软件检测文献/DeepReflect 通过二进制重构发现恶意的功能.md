@@ -83,7 +83,7 @@
 
 前提：使用静态样本分析（动态检测在概念上可以被扩展，但没有试过），使用之前被研究过的方法去解压样本===》》可靠的拆解，先前已有研究提到过怎样去准确拆解（Dennis Andriesse, Asia Slowinska, and Herbert Bos. Compiler-Agnostic Function Detection in Binaries. In IEEE European Symposium on Security and Privacy, 2017.）
 
-![avatar](DeepReFlect.png)
+![avatar](DeepReflect.png)
 
 ### 研究目标	
 
